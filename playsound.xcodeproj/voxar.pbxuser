@@ -1,0 +1,111 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 99BCEACC0F27346400182AEB /* playsound */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* playsound */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* playsound */,
+		);
+		codeSenseManager = 99BCEAD30F27348300182AEB /* Code sense */;
+		executables = (
+			99BCEACC0F27346400182AEB /* playsound */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 254253886;
+			PBXWorkspaceStateSaveDate = 254253886;
+		};
+		perUserProjectItems = {
+			9935348B0F288DDD00861193 /* PBXTextBookmark */ = 9935348B0F288DDD00861193 /* PBXTextBookmark */;
+			99BCEC160F276CE700182AEB /* PBXTextBookmark */ = 99BCEC160F276CE700182AEB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 99BCEAD20F27348300182AEB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* playsound.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 872}}";
+			sepNavSelRange = "{57, 0}";
+			sepNavVisRange = "{0, 814}";
+			sepNavWindowFrame = "{{281, 121}, {901, 929}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* playsound */ = {
+		activeExec = 0;
+		executables = (
+			99BCEACC0F27346400182AEB /* playsound */,
+		);
+	};
+	9935348B0F288DDD00861193 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* playsound.m */;
+		name = "playsound.m: 2";
+		rLen = 0;
+		rLoc = 57;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	99BCEACC0F27346400182AEB /* playsound */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			NO,
+			YES,
+		);
+		argumentStrings = (
+			"~/sound.mp3",
+			"http://79.136.80.82/cgi-bin/nph-neospeechstream?lang=en&id=22143.mp3&file=1",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = playsound;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	99BCEAD20F27348300182AEB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	99BCEAD30F27348300182AEB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	99BCEC160F276CE700182AEB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* playsound.m */;
+		name = "playsound.m: 21";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	C6859EA3029092ED04C91782 /* playsound.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 1264}}";
+			sepNavSelRange = "{1882, 0}";
+			sepNavVisRange = "{0, 2377}";
+			sepNavWindowFrame = "{{176, 97}, {901, 929}}";
+		};
+	};
+}
